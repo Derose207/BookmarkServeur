@@ -1,0 +1,62 @@
+[
+    {
+        "Id": 1,
+        "Titre": "College Lionel-Groulx",
+        "url": "https://clg.qc.ca/",
+        "categorie": "Cégep"
+    },
+    {
+        "Id": 3,
+        "Titre": "Youtube",
+        "url": "https://www.youtube.com/",
+        "categorie": "divertissement"
+    },
+    {
+        "Id": 4,
+        "Titre": "Chocolat Favoris",
+        "url": "https://www.chocolatsfavoris.com/fr",
+        "categorie": "Chocolat"
+    },
+    {
+        "Id": 5,
+        "Titre": "Ubisoft",
+        "url": "https://store.ubisoft.com/ca/home?lang=en",
+        "categorie": "Jeux Vidéo"
+    },
+    {
+        "Id": 6,
+        "Titre": "Montmorency",
+        "url": "https://www.cmontmorency.qc.ca/",
+        "categorie": "Cégep"
+    },
+    {
+        "Id": 7,
+        "Titre": "Netflix",
+        "url": "https://www.netflix.com/ca-fr/",
+        "categorie": "divertissement"
+    },
+    {
+        "Id": 8,
+        "Titre": "Lindt",
+        "url": "https://www.lindt.ca/fr/",
+        "categorie": "Chocolat"
+    },
+    {
+        "Id": 9,
+        "Titre": "Collège de Maisonneuve",
+        "url": "https://www.cmaisonneuve.qc.ca/",
+        "categorie": "Cégep"
+    },
+    {
+        "Id": 10,
+        "Titre": "Rio Games",
+        "url": "https://www.riotgames.com/fr",
+        "categorie": "Jeux Vidéo"
+    },
+    {
+        "Id": 11,
+        "Titre": "Twitch",
+        "url": "https://www.twitch.tv/",
+        "categorie": "divertissement"
+    }
+]
